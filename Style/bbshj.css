@@ -1,0 +1,87 @@
+
+.seperator{
+
+display: flex;
+width: 100%;
+background-color: rgb(255, 0, 0);
+height: 10px;
+
+}
+
+.Home{
+
+width: 50%;
+float: left;
+
+
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+#ServicePromotionintro{
+
+display: flex;
+
+text-indent: 50px;
+font-size: 18pt;
+
+
+}
+
+.leftbox{
+
+    
+    float: left;
+    width: 25%;
+    
+
+}
+
+.rightbox{
+
+   
+    float: left;
+    width: 25%;
+}
+
+.sideshead{
+
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24pt;
+    margin-left: 25%;
+    margin-top: 5%;
+   
+}
+
+.sidesopening{
+
+   
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18pt;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.sidesbody{
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14pt;
+margin-left: 25%;
+
+}
+
+#rightservicebox{
+
+       display: flex;
+    width: 350px;
+    height: 450px;
+    margin-left: 1500px;
+    margin-top: -350px;
+
+}
+
